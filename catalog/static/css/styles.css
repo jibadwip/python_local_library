@@ -1,0 +1,13 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+body{
+background-color: #fbfdfe;
+/*background-image: url('/static/images/local_library_model_uml.png');*/
+}
+
+.panel-footer {
+      background-color: white !important;
+	  }
